@@ -1,0 +1,34 @@
+PHOTO SOURCES
+
+These demo images are linked from Pexels so the static GitHub Pages site can display real photographic stock imagery without a build step.
+
+Hero / Exterior After
+https://www.pexels.com/photo/modern-house-exterior-7587880/
+
+Before 1 / Old Kitchen
+https://www.pexels.com/photo/interior-of-old-kitchen-19337913/
+
+After 1 / Kitchen
+https://www.pexels.com/photo/beautiful-kitchen-in-the-house-10855205/
+
+Before 2 / Unfinished Basement
+https://www.pexels.com/photo/an-empty-basement-4092026/
+
+After 2 / Finished Basement
+https://www.pexels.com/photo/photo-of-an-empty-living-room-10847194/
+
+Before 3 / Exterior Renovation
+https://www.pexels.com/photo/house-exterior-being-renovated-7476608/
+
+After 3 / Exterior With Deck
+https://www.pexels.com/photo/modern-house-exterior-7587880/
+
+Gallery
+https://www.pexels.com/photo/beautiful-kitchen-in-the-house-10855205/
+https://www.pexels.com/photo/modern-living-room-10161222/
+https://www.pexels.com/photo/modern-living-room-interior-15824912/
+https://www.pexels.com/photo/modern-brick-house-with-wooden-deck-exterior-view-34053442/
+https://www.pexels.com/photo/a-man-renovating-a-home-5493666/
+https://www.pexels.com/photo/house-renovation-3990359/
+
+All listed Pexels pages were checked as free-use photo pages at the time of building this demo. Recheck the current Pexels license before using any image in a paid client website.
